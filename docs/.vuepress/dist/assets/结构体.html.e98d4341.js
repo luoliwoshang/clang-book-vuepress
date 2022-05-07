@@ -1,0 +1,1 @@
+const t={key:"v-42e42ba2",path:"/clang/tips/%E7%BB%93%E6%9E%84%E4%BD%93.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"clang/tips/\u7ED3\u6784\u4F53.md"};export{t as data};
